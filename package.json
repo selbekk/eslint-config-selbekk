@@ -1,8 +1,13 @@
 {
   "name": "eslint-config-selbekk",
   "description": "An opinionated eslint config based of airbnb",
-  "keywords": [ "eslint", "eslintconfig", "lint", "airbnb" ],
-  "version": "1.0.0",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "lint",
+    "airbnb"
+  ],
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "repository": {
